@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Firecord
+Comment=Chat and send messages with other users and groups.
+Comment[es]=Chatea y envía mensajes con otros usuarios y grupos.
+Exec=firefox --new-window https://discord.com/login
+Icon=/usr/share/pixmaps/firecord.svg
+Type=Application
+Categories=Network;WebBrowser;
+
